@@ -12,17 +12,25 @@
 
 </div>
 
+
+
 <tr><td>
 
+  
 <!-- About me 关于我 -->
+### 🧠  About Me
+  
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
-### 🤺 About Me
+<br>
 
 <p>&emsp;&emsp;大家好，我是海锐同学。</p>
 <p>&emsp;&emsp;热爱编程、动漫、读书、旅行。</p>
 <p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名优秀的开发者。</p>
-
+<br>
 </td></tr>
+
+<tr>
+<td>
 
 <div align="center" >
 
@@ -30,7 +38,6 @@
   <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=herijrs&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
   <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herijrs&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
 </td></tr>
-
 
 </div>
   
